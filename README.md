@@ -8,5 +8,7 @@ static const int MAX_SCREEN_WIDTH = 1360;
 static const int MAX_SCREEN_HEIGHT = 768;
 ```
 
-To display an image put :
-``$ ./image_viewer <YOUR_IMAGE>``
+To display an image:
+```
+$ ./image_viewer <YOUR_IMAGE>
+```
