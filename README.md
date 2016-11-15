@@ -12,3 +12,5 @@ To display an image:
 ```
 $ ./image_viewer <YOUR_IMAGE>
 ```
+
+Type ``ESCAPE`` or ``q`` to quit the program.
