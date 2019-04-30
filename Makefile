@@ -1,5 +1,5 @@
 CFLAGS = -Wall -Wno-unused-value -Wno-comment -Werror -Wextra -g -std=c++11
-LDFLAGS = -lpthread -lgd -lSDL
+LDFLAGS = -lpthread -lgd -lSDL -ltiff
 
 all: image_viewer
 
